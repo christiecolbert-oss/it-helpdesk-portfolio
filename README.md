@@ -1,10 +1,10 @@
 🖥️ IT Help Desk & Systems Administration Portfolio
 A full-stack simulation of enterprise IT tools built to demonstrate real-world sysadmin, help desk, and IT operations skills.
-Built by [Your Name] | [your-email@email.com] | [linkedin.com/in/yourprofile]
+Built by [Christie Colbert] | [Christie,Colbert@gmail.com] | [(https://www.linkedin.com/in/christie-colbert/)]
 �
 Load image
 🚀 Live Demo
-🔗 https://your-name-it-portfolio.netlify.app
+🔗 [(https://app.netlify.com/teams/christie-colbert/projects)]
 🛠️ Tech Stack
 Layer
 Technology
