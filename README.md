@@ -55,7 +55,7 @@ npm or yarn
 Git
 Local Setup
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/it-portfolio.git
+git clone [(https://github.com/christiecolbert-oss/it-helpdesk-portfolio)]
 
 # 2. Navigate into the project
 cd it-portfolio
